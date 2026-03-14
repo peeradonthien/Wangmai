@@ -91,3 +91,8 @@ Responsibilities:
 Used for real-time communication between:
 - ESP32 hardware
 - Backend server
+
+## Contributor
+1. Peeradon Thienpongkasem ([peeradonthien](https://github.com/peeradonthien))
+2. Phaolap Kulteera ([PhoengZ](https://github.com/PhoengZ))
+3. Tinnapat Sittisuwan ([dewwts](https://github.com/dewwts))
